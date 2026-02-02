@@ -1,6 +1,6 @@
 # 📖 Diário Secreto em Python
 
-Este é um projeto simples de manipulação de arquivos desenvolvido em Python. O objetivo principal é praticar a leitura e escrita de dados de forma persistente em arquivos de texto (`.txt`).
+Este é um projeto simples de **manipulação de arquivos** desenvolvido em Python. O objetivo principal é praticar a leitura e escrita de dados de forma persistente em arquivos de texto (`.txt`).
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
